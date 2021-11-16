@@ -1,0 +1,39 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Science",
+      "Physics",
+      "Classical Mechanics"
+    ],
+    [
+      "Engineering",
+      "Mechanical Engineering",
+      "Solid Mechanics"
+    ],
+    [
+      "Engineering",
+      "Materials Science and Engineering"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "8ec099fc-482e-a19b-d88a-cf6c011e15a3",
+      "cf721de3-c0b1-a308-0215-d4e2c4c5c0d1"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Mechanical Behavior of Materials",
+  "course_description": "Here we will learn about the mechanical behavior of structures and materials, from the continuum description of properties to the atomistic and molecular mechanisms that confer those properties to all materials. We will cover elastic and plastic deformation, creep, and fracture of materials including crystalline and amorphous metals, ceramics, and (bio)polymers, and will focus on the design and processing of materials from the atomic to the macroscale to achieve desired mechanical behavior. Integrated laboratories provide the opportunity to explore these concepts through hands-on experiments including instrumentation of pressure vessels, visualization of atomistic deformation in bubble rafts, nanoindentation, and uniaxial mechanical testing, as well as writing assignments to communicate these findings to either general scientific or nontechnical audiences.\n",
+  "department_numbers": [
+    "3"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "3.032",
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Exams",
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
